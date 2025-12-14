@@ -1,6 +1,6 @@
 # Meerub-Aftab
 This is my first Git Repository
-<hd>
+<br>
 Every expert was once a beginner.
-<hd>
+<br>
 Starting small,aiming big
